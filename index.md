@@ -1,4 +1,6 @@
-[Help](/help)
+> [Help](/help)
+
+> [Ideation/Inspiration](/ideation)
 
 # 2023
 
