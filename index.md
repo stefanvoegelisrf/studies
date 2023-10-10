@@ -13,7 +13,7 @@
 ## TODOS
 
 - Until 11.10 Presentation about design studio
-- For 10. Oct
-  - [Excorcise](https://exorciser.ch/di/ba23/spark/digital-media-theories)
+- TODO: add digit homework
+- TODO: add spark homework
 - Read through SPARK stuff from lessons
 - 3D Mentorat, try stuff out
