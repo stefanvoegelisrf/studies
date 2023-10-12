@@ -21,3 +21,5 @@
 
 - Use OneDrive to store large files
   - Images that are embedded can be in the code
+- For links, mention the page first, then the topic
+- For images, use descriptive alt text so it is clear, what the image is
