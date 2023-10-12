@@ -12,8 +12,12 @@
 
 ## TODOS
 
-- Until 11.10 Presentation about design studio
 - TODO: add digit homework
 - TODO: add spark homework
 - Read through SPARK stuff from lessons
 - 3D Mentorat, try stuff out
+
+## Guidelines
+
+- Use OneDrive to store large files
+  - Images that are embedded can be in the code
