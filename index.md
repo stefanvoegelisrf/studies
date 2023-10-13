@@ -14,6 +14,7 @@
 
 - 17.10.2023: [Read about Dirk Baecker and answer question](/spark/04)
 - 3D Mentorat: Go through tutorials, excercise, excercise
+- 15.12.2023: [Semesterproject DIGIT](/digit/semesterproject)
 
 ## Guidelines
 
