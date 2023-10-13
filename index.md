@@ -12,10 +12,8 @@
 
 ## TODOS
 
-- TODO: add digit homework
-- TODO: add spark homework
-- Read through SPARK stuff from lessons
-- 3D Mentorat, try stuff out
+- 17.10.2023: [Read about Dirk Baecker and answer question](/spark/04)
+- 3D Mentorat: Go through tutorials, excercise, excercise
 
 ## Guidelines
 
