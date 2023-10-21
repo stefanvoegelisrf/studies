@@ -16,7 +16,7 @@
 - 3D Mentorat: Go through tutorials, excercise, excercise
 - 15.12.2023: [Semesterproject DIGIT](/digit/semesterproject)
 
-## Guidelines
+## Guidelines
 
 - Use OneDrive to store large files
   - Images that are embedded can be in the code
