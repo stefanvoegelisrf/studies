@@ -14,6 +14,7 @@
 
 - 31.10 Read [Our Brains are no match for our technology](https://exorciser.ch/di/ba23/spark/community-dynamics#our_brains_are_no_match_for_our_technology)
 - 2.11 Finish VIDES EPUB
+- 13.11 Finish KIPRO postcard
 - 3D Mentorat: Go through tutorials, excercise, excercise
 - 15.12.2023: [Semesterproject DIGIT](/digit/semesterproject)
 - Add study documentation for [spark](/spark) and [digit](/digit)
