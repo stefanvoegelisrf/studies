@@ -9,6 +9,7 @@
 - [spark](/spark)
 - [vides](/vides)
 - [igame](/igame)
+- [iux](/iux)
 - [3d mentorat](/3d_mentorat)
 
 ## TODOS
@@ -23,7 +24,7 @@
 
 ## Timetracking and planning
 
-
+TODO: create guide
 
 ## Guidelines
 
