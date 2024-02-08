@@ -2,8 +2,17 @@
 
 > [Ideation/Inspiration](/ideation)
 
-# 2023
+## TODOS
+- Complete study documentation for [spark](/spark) and [digit](/digit)
 
+# 2024
+- COMGD
+- KIWEB
+- SCIFI
+- [stuprot](/stuprot)
+- DIDES
+
+# 2023
 - [kipro](/kipro)
 - [digit](/digit)
 - [spark](/spark)
@@ -11,20 +20,6 @@
 - [igame](/igame)
 - [iux](/iux)
 - [3d mentorat](/3d_mentorat)
-
-## TODOS
-
-
-- 27.11.2023 Moodboard for KIPRO final excercise, see [Kipro](/kipro)
-- 18.01.2024 Documentation for KIPRO final excercise
-- 3D Mentorat: Go through tutorials, excercise, excercise
-- 15.12.2023: [Semesterproject DIGIT](/digit/semesterproject)
-- 15.12.2023: [Semesterproject SPARK](https://exorciser.ch/di/ba23/spark/semesterprojekt)
-- Complete study documentation for [spark](/spark) and [digit](/digit)
-
-## Timetracking and planning
-
-TODO: create guide
 
 ## Guidelines
 
