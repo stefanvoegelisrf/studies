@@ -3,12 +3,15 @@
 > [Ideation/Inspiration](/ideation)
 
 ## TODOS
+- 26.2 - [Medien Reflexion](https://di-wiki.ch/di/ba23/idcl2/medien-reflexion)
+
+
 - Complete study documentation for [spark](/spark) and [digit](/digit)
 
 # 2024
 - COMGD
-- KIWEB
-- SCIFI
+- [](/deweb)
+- [scifi](/scifi)
 - [stuprot](/stuprot)
 - DIDES
 
