@@ -10,7 +10,7 @@
 
 # 2024
 - COMGD
-- [](/deweb)
+- [kiweb](/kiweb)
 - [scifi](/scifi)
 - [stuprot](/stuprot)
 - DIDES
