@@ -13,6 +13,7 @@
 - [kiweb](/kiweb)
 - [scifi](/scifi)
 - [stuprot](/stuprot)
+- [compp](/compp)
 - DIDES
 
 # 2023
