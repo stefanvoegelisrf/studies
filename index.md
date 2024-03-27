@@ -8,11 +8,11 @@
 - Complete study documentation for [spark](/spark) and [digit](/digit)
 
 # 2024
-- COMGD
 - [kiweb](/kiweb)
 - [scifi](/scifi)
 - [stuprot](/stuprot)
 - [compp](/compp)
+- [stupx](/stupx)
 - DIDES
 
 # 2023
