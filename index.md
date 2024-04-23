@@ -13,6 +13,7 @@
 - [stuprot](/stuprot)
 - [compp](/compp)
 - [stupx](/stupx)
+- [comgd](/comgd)
 - DIDES
 
 # 2023
