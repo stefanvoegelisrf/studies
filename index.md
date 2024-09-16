@@ -14,7 +14,8 @@
 - [compp](/compp)
 - [stupx](/stupx)
 - [comgd](/comgd)
-- DIDES
+- [dides](/dides)
+  - Project: [Bring out the Lobster/Trial Period](/bring-out-the-lobster)
 - [human](/human)
 - [story](/story)
 
