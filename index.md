@@ -16,6 +16,7 @@
 - [comgd](/comgd)
 - DIDES
 - [human](/human)
+- [story](/story)
 
 # 2023
 - [kipro](/kipro)
