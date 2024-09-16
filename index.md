@@ -15,6 +15,7 @@
 - [stupx](/stupx)
 - [comgd](/comgd)
 - DIDES
+- [human](/human)
 
 # 2023
 - [kipro](/kipro)
